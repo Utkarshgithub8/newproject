@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="47229" started-at="2023-12-05T15:41:39Z" finished-at="2023-12-05T15:42:26Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="47229" started-at="2023-12-05T15:41:39Z" finished-at="2023-12-05T15:42:26Z">
+      <class name="TestSuites.TestHRM">
+        <test-method status="PASS" signature="invokeBrowser()[pri:0, instance:TestSuites.TestHRM@443118b0]" name="invokeBrowser" is-config="true" duration-ms="8414" started-at="2023-12-05T15:41:39Z" finished-at="2023-12-05T15:41:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method status="PASS" signature="testCases()[pri:1, instance:TestSuites.TestHRM@443118b0]" name="testCases" duration-ms="32152" started-at="2023-12-05T15:41:47Z" finished-at="2023-12-05T15:42:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCases -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:TestSuites.TestHRM@443118b0]" name="closeBrowser" is-config="true" duration-ms="6572" started-at="2023-12-05T15:42:19Z" finished-at="2023-12-05T15:42:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestSuites.TestHRM -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
